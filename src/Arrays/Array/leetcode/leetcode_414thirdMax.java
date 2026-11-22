@@ -1,8 +1,8 @@
-package com.Array.leetcode;
+package Arrays.Array.leetcode;
 
 import java.util.Arrays;
 
-public class leetcode_414 {
+public class leetcode_414thirdMax {
 
     public static int thirdMax(int[] nums) {
         Arrays.sort(nums);

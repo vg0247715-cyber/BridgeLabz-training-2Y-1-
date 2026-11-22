@@ -1,8 +1,8 @@
-package com.Array.leetcode;
+package Arrays.Array.leetcode;
 
 import java.util.Arrays;
 
-public class leetcode_977 {
+public class leetcode_977sortedSquares {
 
     public static int[] sortedSquares(int[] nums) {
 

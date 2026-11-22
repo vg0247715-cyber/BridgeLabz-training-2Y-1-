@@ -1,6 +1,6 @@
 
 
-package Arrays.logic_building;
+package Arrays.Array.Logical_Problem;
 
 public class Maximum {
 

@@ -1,6 +1,6 @@
-package com.Array.leetcode;
+package Arrays.Array.leetcode;
 
-public class leetcode_238 {
+public class leetcode_238ProductExcept {
 
     public static int[] productExceptSelf(int[] nums) {
 
